@@ -37,8 +37,8 @@
 ## 🏁 Quick Start
 
 ### 1. Clone the Repository
-git clone [https://github.com/YOUR_USERNAME/educore-api.git](https://github.com/YOUR_USERNAME/educore-api.git)
-cd educore-api
+git clone [https://github.com/YOUR_USERNAME/educore-api.git]([https://github.com/dhruvitpatel950/EduCore-LMS-API])
+cd educore
 
 ### 2. Setup Environment
 
